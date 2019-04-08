@@ -71,11 +71,11 @@ private T first;
 in [Pair](https://github.com/stuyvesant-cs/solutionsHolmes/blob/650c94c91da1ad1b815e13c35c5816c2419446e5/2019-04-05_PairOfGenerics/Pair.java#L10)
 
 
-- the declaration of a method that accepts a parameter of a generic type:
+- the declaration of a constructor that accepts a parameter of a generic type:
 ```
-your exemplifying line from the Pair example here
+public Pair( T first, T second) {
 ```
-in [class](URL)
+in [Pair](https://github.com/stuyvesant-cs/solutionsHolmes/blob/650c94c91da1ad1b815e13c35c5816c2419446e5/2019-04-05_PairOfGenerics/Pair.java#L13)
 
 
 - the declaration of a method that returns a value of a generic type:
